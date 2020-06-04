@@ -1,0 +1,14 @@
+<!--
+This software is released "AS IS,"
+with no claims whatsoever,
+TO THE PUBLIC DOMAIN.
+
+The author intends this software NEVER,
+neither in whole nor in part,
+neither directly nor indirectly,
+BRING HARM TO ANY living being.
+-->
+
+<resources>
+ <style name="AppTheme" parent="@android:style/Theme.NoDisplay" />
+</resources>
